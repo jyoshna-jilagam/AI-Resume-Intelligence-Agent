@@ -1,0 +1,11 @@
+
+Simple diagram:
+
+User → Streamlit → Chunking → Embeddings → FAISS → Groq → Output
+
+This improves hackathon scoring massively.
+
+---
+
+# ✅ 7️⃣ Final Clean GitHub Structure
+
