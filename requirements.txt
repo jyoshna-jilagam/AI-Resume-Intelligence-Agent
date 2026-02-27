@@ -7,3 +7,10 @@ python-dotenv
 openai
 langchain
 PyPDF2
+streamlit
+PyMuPDF
+faiss-cpu
+numpy
+sentence-transformers
+groq
+python-dotenv
