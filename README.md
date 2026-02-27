@@ -49,4 +49,6 @@ AI Evaluation Output
 ## 🚀 Run Locally
 
 pip install -r requirements.txt
+
+
 streamlit run app.py
